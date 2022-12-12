@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.main-header{
+    background-color: antiquewhite;
+}
+.main-section{
+    background-color: aquamarine;
+}
+.shanmukh{
+    color: #007056;
+}
+span{
+    background-color: aqua;
+}

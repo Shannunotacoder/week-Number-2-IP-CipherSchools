@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+/* h1{
+    color: #ca273a;
+    backgroun   d: #000000;
+} */
+#main-heading{
+    background-color: #cdcdcd;
+}
+.main-section{
+    background-color: #cdcdcd;
+}
